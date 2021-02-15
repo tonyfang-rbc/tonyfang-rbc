@@ -4,7 +4,7 @@ There is the land where I share toys and take a break.
 
 📫  How to reach me?
 
-[![email](https://img.shields.io/static/v1?style=flat-square&logo=microsoft%20exchange&label=&message=tonyfang@rbc.com&color=5b5b5b&labelColor=5b5b5b)](mail:tony.fang@rbc.com)
+[![email](https://img.shields.io/static/v1?style=flat-square&logo=microsoft%20exchange&label=&message=tonyfang@rbc.com&color=5b5b5b&labelColor=5b5b5b)](mailto:tony.fang@rbc.com)
 [![github](https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=tonyfang-rbc&color=5b5b5b&labelColor=5b5b5b)](https://github.com/tonyfang-rbc)
 [![slack](https://img.shields.io/static/v1?style=flat-square&logo=slack&label=&message=@Fang,%20Tony&color=5b5b5b&labelColor=5b5b5b)](https://rbc-ventures.slack.com/team/W017JRY9GKS)
 
